@@ -1,0 +1,61 @@
+2022-08-15 12:50:32,976 || INFO || Program Exit || __main__
+2022-08-16 12:42:20,291 || INFO || Database at ..\db\password.db created || __main__
+2022-08-16 12:43:09,343 || INFO || Failed to find file at "E:\Python 3 Training\BootCampUdemy\Projects\Expert - Wordlist Builder\Init\Test_pass" || __main__
+2022-08-16 12:43:47,151 || INFO || Attempted to create database at ..\db\password.db but file already exists || __main__
+2022-08-16 12:45:17,942 || INFO || Failed to find file at             conn = _db_build_main(logger, "password") || __main__
+2022-08-16 12:45:47,396 || INFO || Database at ..\db\password.db created || __main__
+2022-08-16 12:47:23,270 || INFO || Database at ..\db\password.db created || __main__
+2022-08-16 12:48:05,873 || INFO || Database at ..\db\password.db created || __main__
+2022-08-16 12:49:42,474 || INFO || Database at ..\db\password.db created || __main__
+2022-08-16 12:52:08,643 || INFO || Database at ..\db\password.db created || __main__
+2022-08-16 12:53:30,026 || INFO || Database at ..\db\password.db created || __main__
+2022-08-16 12:54:49,354 || INFO || Database at ..\db\password.db created || __main__
+2022-08-16 12:55:50,339 || INFO || Database at ..\db\password.db created || __main__
+2022-08-16 12:59:04,533 || INFO || Database at ..\db\password.db created || __main__
+2022-08-16 13:00:35,256 || INFO || Database at ..\db\password.db created || __main__
+2022-08-16 13:01:40,912 || INFO || Database at ..\db\password.db created || __main__
+2022-08-16 13:01:40,920 || INFO || Completed importing passwords to blank DB || __main__
+2022-08-16 13:04:35,313 || INFO || Database at ..\db\password.db created || __main__
+2022-08-16 13:04:35,321 || INFO || Completed importing passwords to blank DB || __main__
+2022-08-16 13:10:10,325 || INFO || Database at ..\db\password.db created || __main__
+2022-08-16 13:10:10,337 || INFO || Completed importing passwords to blank DB || __main__
+2022-08-16 13:13:55,377 || INFO || Database at ..\db\password.db created || __main__
+2022-08-16 13:13:55,388 || INFO || Completed importing passwords to blank DB || __main__
+2022-08-16 13:14:22,881 || INFO || Database at ..\db\password.db created || __main__
+2022-08-16 13:14:22,891 || INFO || Completed importing passwords to blank DB || __main__
+2022-08-16 13:15:24,739 || INFO || Failed to find file at dicsk || __main__
+2022-08-16 13:22:25,058 || INFO || Failed to find file at  || __main__
+2022-08-16 13:30:08,427 || INFO || Failed to find file at E:\Python 3 Training\BootCampUdemy\Projects\Expert - Wordlist Builder\Ini\realuniq.lst || __main__
+2022-08-16 13:44:27,648 || ERROR || File at E:\Python 3 Training\BootCampUdemy\Projects\Expert - Wordlist Builder\Init\realuniq.lst found but Unicode Error. Error: 'charmap' codec can't decode byte 0x81 in position 165: character maps to <undefined> || __main__
+2022-08-16 13:44:27,649 || INFO || Failed to find file at E:\Python 3 Training\BootCampUdemy\Projects\Expert - Wordlist Builder\Init\realuniq.lst || __main__
+2022-08-16 13:47:54,374 || INFO || Database at ..\db\password.db created || __main__
+2022-08-16 13:47:54,399 || INFO || Completed importing passwords to blank DB || __main__
+2022-08-16 13:49:23,663 || ERROR || File at E:\Python 3 Training\BootCampUdemy\Projects\Expert - Wordlist Builder\Init\realuniq.lst found but Unicode Error. Error: 'charmap' codec can't decode byte 0x81 in position 165: character maps to <undefined> || __main__
+2022-08-16 13:50:40,569 || INFO || Failed to find file at E:\Python 3 Training\BootCampUdemy\Projects\Expert - Wordlist Builder\Ini\realuniq.lst || __main__
+2022-08-16 13:50:55,124 || ERROR || File at E:\Python 3 Training\BootCampUdemy\Projects\Expert - Wordlist Builder\Init\realuniq.lst found but Unicode Error. Error: 'charmap' codec can't decode byte 0x81 in position 165: character maps to <undefined> || __main__
+2022-08-16 13:53:17,570 || ERROR || File at E:\Python 3 Training\BootCampUdemy\Projects\Expert - Wordlist Builder\Init\realuniq.lst found but Unicode Error. Error: 'charmap' codec can't decode byte 0x81 in position 165: character maps to <undefined> || __main__
+2022-08-16 13:54:26,855 || ERROR || File at E:\Python 3 Training\BootCampUdemy\Projects\Expert - Wordlist Builder\Init\realuniq.lst found but Unicode Error. Error: 'utf-8' codec can't decode byte 0xc7 in position 237: invalid continuation byte || __main__
+2022-08-16 13:54:59,016 || INFO || Database at ..\db\password.db created || __main__
+2022-08-17 14:26:14,378 || INFO || Failed to find file at E:\Python 3 Training\BootCampUdemy\Projects\Expert - Wordlist Builder\Init\MetasploitWordlist || __main__
+2022-08-17 14:26:33,098 || INFO || Database at ..\db\password.db created || __main__
+2022-08-17 14:26:33,113 || INFO || Completed importing passwords to blank DB || __main__
+2022-08-17 14:27:25,966 || INFO || Database at ..\db\password.db created || __main__
+2022-08-17 14:28:23,525 || INFO || Database at ..\db\password.db created || __main__
+2022-08-18 14:18:02,649 || INFO || Database at ..\db\password.db created || __main__
+2022-08-18 14:18:02,669 || INFO || Completed importing passwords to blank DB || __main__
+2022-08-18 14:32:34,934 || INFO || Failed to find file at Teset.txt || __main__
+2022-08-18 14:49:39,019 || INFO || Database at ..\db\password.db created || __main__
+2022-08-18 14:49:39,029 || INFO || Completed importing passwords to blank DB || __main__
+2022-08-18 14:57:46,743 || INFO || Database at ..\db\password.db created || __main__
+2022-08-18 14:57:46,753 || INFO || Completed importing passwords to blank DB || __main__
+2022-08-18 14:57:53,383 || INFO || Program Exit || __main__
+2022-08-18 15:01:04,461 || INFO || Database at ..\db\password.db created || __main__
+2022-08-18 15:01:04,469 || INFO || Completed importing passwords to blank DB || __main__
+2022-08-18 15:04:20,525 || INFO || Database at ..\db\password.db created || __main__
+2022-08-18 15:04:20,535 || INFO || Completed importing passwords to blank DB || __main__
+2022-08-18 15:06:10,285 || INFO || Database at ..\db\password.db created || __main__
+2022-08-18 15:06:10,295 || INFO || Completed importing passwords to blank DB || __main__
+2022-08-18 15:07:19,027 || INFO || Database at ..\db\password.db created || __main__
+2022-08-18 15:07:19,036 || INFO || Completed importing passwords to blank DB || __main__
+2022-08-18 15:09:28,529 || INFO || Program Exit || __main__
+2022-08-18 15:10:55,865 || INFO || Failed to find file at ..\init\Test_pass2.txt || __main__
