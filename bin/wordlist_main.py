@@ -9,7 +9,7 @@ import termcolor
 from logging.handlers import RotatingFileHandler
 from time import sleep
 
-# TODO: Abs/Rel Paths are fucked I think
+# TODO: Rel Paths are not working I think 
 
 """
 wordlist_main.py
